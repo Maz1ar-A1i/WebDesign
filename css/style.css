@@ -86,6 +86,7 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   padding-top: 100px;
+  width: 100%;
 }
 
 .top-cloud {
@@ -136,6 +137,7 @@ margin-bottom: 200px;
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
+  width: 100%;
 }
 
 .development-date {
